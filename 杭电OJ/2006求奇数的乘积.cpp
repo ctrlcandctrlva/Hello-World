@@ -1,3 +1,4 @@
+//https://acm.hdu.edu.cn/showproblem.php?pid=2006
 #include <iostream>
 using namespace std;
 
