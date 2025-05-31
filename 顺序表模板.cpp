@@ -35,7 +35,7 @@ public:
 	{
 		return elem[index - 1];
 	}
-	int LocateElem(ElemType e)
+	int LocateElem(ElemType e) const
 	{
 		for (int i = 0; i < size; ++i)
 		{
