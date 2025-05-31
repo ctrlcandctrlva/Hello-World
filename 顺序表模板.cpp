@@ -31,7 +31,7 @@ public:
 	{
 		return size;
 	}
-	ElemType& GetElem(int index) const
+	ElemType& GetElem(int index)
 	{
 		return elem[index - 1];
 	}
